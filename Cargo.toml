@@ -1,5 +1,6 @@
 #
-# FIXME rustc "runs" without error, but doesn't show any output.
+# FIXME rustc "runs" without error, but there's a problem:
+#       it generates an .exe file, but there's no output.
 #
 
 [package]
