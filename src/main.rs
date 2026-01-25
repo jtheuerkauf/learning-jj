@@ -3,14 +3,11 @@
 /// I don't think I'll find a new job fast enough.
 
 fn main() {
-    print_hello();
-    print_goodbye();
+    print("Hello, JJ!");
+    print("Goodbye, git!");
 }
 
-fn print_hello() {
-    println!("Hello, JJ!");
-}
-
-fn print_goodbye() {
-    println!("Goodbye, git!");
+// This prints.
+fn print(m: &str) {
+    println!("{m}");
 }
