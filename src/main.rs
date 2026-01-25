@@ -5,6 +5,7 @@
 // This is the main function
 fn main() {
     print("Hello, JJ!");
+    print("Goodbye, git!");
 }
 
 // This prints a message.
