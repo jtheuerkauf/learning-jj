@@ -1,3 +1,7 @@
+#
+# FIXME rustc "runs" without error, but doesn't show any output.
+#
+
 [package]
 name = "hello-jj"
 version = "0.1.0"
