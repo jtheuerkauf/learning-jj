@@ -2,10 +2,8 @@
 ///
 /// This is important, so don't remove it!
 
-// The main function runs when the program starts
 fn main() {
-    print("Hello, jj!");
-    print("Goodbye, git!");
+    print("Hello, JJ!");
 }
 
 // A function that prints
