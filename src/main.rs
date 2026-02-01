@@ -4,7 +4,6 @@
 
 fn main() {
     print("Hello, JJ!");
-    print("Goodbye, Git!");
 }
 
 // This function prints a message
