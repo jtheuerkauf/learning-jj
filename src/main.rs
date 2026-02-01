@@ -3,14 +3,11 @@
 /// Comments that don't explain something are useless. Like this one.
 
 fn main() {
-    print_hello();
-    print_goodbye();
+    print("Hello, JJ!");
+    print("Goodbye, Git!");
 }
 
-fn print_hello() {
-    println!("Hello, JJ!");
-}
-
-fn print_goodbye() {
-    println!("Goodbye, Git!");
+// This function prints a message
+fn print(m: &str) {
+    println!("{m}");
 }
