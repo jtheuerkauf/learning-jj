@@ -2,6 +2,7 @@
 ///
 /// Comments that don't explain something are useless. Like this one.
 
+// The program calls main() when it starts
 fn main() {
     print("Hello, JJ!");
 }
