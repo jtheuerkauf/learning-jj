@@ -2,6 +2,7 @@
 ///
 /// This is a tutorial program. The code is not the point.
 
+// The main() function runs when the program starts
 fn main() {
     print("Hello, JJ!");
 }
