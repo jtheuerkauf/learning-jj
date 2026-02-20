@@ -5,6 +5,7 @@
 // Add doc comment for main()
 fn main() {
     print("Hello, JJ!");
+    print("Goodbye, Git!");
 }
 
 // A simple print function
