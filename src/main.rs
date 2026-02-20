@@ -5,6 +5,7 @@
 // The main() function runs when the program starts
 fn main() {
     print("Hello, JJ!");
+    print("Goodbye, Git!");
 }
 
 // A simple print function
