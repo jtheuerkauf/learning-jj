@@ -2,6 +2,7 @@
 ///
 /// This is another comment.
 
+/// Add documentation comment
 fn main() {
     print("Hello, JJ!");
 }
