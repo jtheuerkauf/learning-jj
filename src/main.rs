@@ -3,5 +3,14 @@
 /// This is another comment.
 
 fn main() {
-    println!("Hello, world!");
+    print_hello();
+    print_goodbye();
+}
+
+fn print_hello() {
+    println!("Hello, JJ!");
+}
+
+fn print_goodbye() {
+    println!("Goodbye, Git!");
 }
