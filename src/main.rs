@@ -3,14 +3,11 @@
 /// This is another comment.
 
 fn main() {
-    print_hello();
-    print_goodbye();
+    print("Hello, JJ!");
+    print("Goodbye, Git!");
 }
 
-fn print_hello() {
-    println!("Hello, JJ!");
-}
-
-fn print_goodbye() {
-    println!("Goodbye, Git!");
+// This is a function that prints.
+fn print(m: &str) {
+    println!("{m}");
 }
