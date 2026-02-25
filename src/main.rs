@@ -2,8 +2,10 @@
 ///
 /// This is another comment.
 
+/// Add documentation comment
 fn main() {
     print("Hello, JJ!");
+    print("Goodbye, Git!");
 }
 
 // This is a function that prints.
